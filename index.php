@@ -595,9 +595,9 @@
 				class="fa-brands fa-whatsapp buttonizer-icon-0-0-14"></i>
 			<div class="buttonizer-label buttonizer-label-0-0-16" id="buttonizer-button-0-0-13-label">WhatsApp</div>
 		</a><a role="button" class="buttonizer-closed-0-0-25 buttonizer-button buttonizer-button-0-0-20"
-			href="tel:+85223363198" aria-describedby="buttonizer-button-0-0-20-label"><i aria-hidden="true"
+			href="tel:+85294085969" aria-describedby="buttonizer-button-0-0-20-label"><i aria-hidden="true"
 				class="fa-solid fa-phone buttonizer-icon-0-0-21"></i>
-			<div class="buttonizer-label buttonizer-label-0-0-23" id="buttonizer-button-0-0-20-label">2336 3198</div>
+			<div class="buttonizer-label buttonizer-label-0-0-23" id="buttonizer-button-0-0-20-label">9408 5969</div>
 		</a></div>
 </body>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" type="text/css"
