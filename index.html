@@ -7,6 +7,15 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<title>PAVILIA ROSA</title>
 	<meta name='robots' content='max-image-preview:large' />
+<meta name="description" content="新世界（0017）旗下九龍塘玫瑰街低密度豪宅項目，今（2日）正式命名為滶蘊 PAVILIA ROSA。發展商表示，項目提出100伙低密度住宅，戶型主打特色豪宅及三、四房大戶，亦設少量特色單位。示範單位目前籌備已進入最後階段，最快於首季登場，關鍵日期為2027年11月30日。">
+
+        <meta property="og:image" content="./image/imageyo.jpg">
+ 
+
+        <!-- Required OG Tags for correct display -->
+    <meta property="og:title" content="PAVILIA ROSA | 歡迎預約參觀示範單位">
+    <meta property="og:url" content="https://paviliarosa-e4e517065dff.herokuapp.com/">
+    <meta property="og:type" content="website">
 
 	<style id='wp-img-auto-sizes-contain-inline-css'>
 		img:is([sizes=auto i], [sizes^="auto," i]) {
