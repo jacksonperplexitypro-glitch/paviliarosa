@@ -9,7 +9,7 @@
 	<meta name='robots' content='max-image-preview:large' />
 <meta name="description" content="新世界（0017）旗下九龍塘玫瑰街低密度豪宅項目，今（2日）正式命名為滶蘊 PAVILIA ROSA。發展商表示，項目提出100伙低密度住宅，戶型主打特色豪宅及三、四房大戶，亦設少量特色單位。示範單位目前籌備已進入最後階段，最快於首季登場，關鍵日期為2027年11月30日。">
 
-        <meta property="og:image" content="./image/imageyo.jpg">
+        <meta property="og:image" content="./photo/new.png">
  
 
         <!-- Required OG Tags for correct display -->
@@ -4680,7 +4680,7 @@
 	</script>
 
 	<div class="buttonizer buttonizer-group buttonizer-group-0-0-1"><a role="button"
-			class="buttonizer-closed-0-0-18 buttonizer-button buttonizer-button-0-0-13" href="javascript:void(0)"
+			class="buttonizer-closed-0-0-18 buttonizer-button buttonizer-button-0-0-13" href="https://api.whatsapp.com/send/?phone=85295855233&#038;text=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2%E3%80%8C%E6%BB%B6%E8%98%8A%E3%80%8D%E8%B3%87%E8%A8%8A%EF%BC%81&#038;type=phone_number&#038;app_absent=0"
 			aria-describedby="buttonizer-button-0-0-13-label"><i aria-hidden="true"
 				class="fa-brands fa-whatsapp buttonizer-icon-0-0-14"></i>
 			<div class="buttonizer-label buttonizer-label-0-0-16" id="buttonizer-button-0-0-13-label">WhatsApp</div>
